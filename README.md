@@ -6,12 +6,14 @@ I have experience in handling the complete lifecycle of a data engineering proje
 ###  Ask me about 💬
 1. Apache Spark
 2. AWS -> Glue, EMR, ECR, Lambda, DynamoDB, Redshift
-3. Python
-4. Hadoop
+3. Azure -> Datafactory, Databricks, Synapse, StorageAccounts, LogicApps
+4. Python
+5. Hadoop -> Spark, Hive, Impala, Oozie, Zookeeper, HDFS
 
 ### Currenly Learning 🌱
-1. Kubernetes
+1. Solidity
 2. Docker
+3. Node
 
 ### Reach me 📫
 Email: shubhamakachamp@gmail.com
